@@ -36,4 +36,4 @@ Instale as seguintes bibliotecas através do Gerenciador de Bibliotecas (`Ferram
 
 ## Autores
 
-* [Seu Nome Aqui](https://github.com/carlosedusp05)
+* [Carlos Eduardo](https://github.com/carlosedusp05)
